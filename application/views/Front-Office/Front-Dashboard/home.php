@@ -49,6 +49,9 @@
               </table>
 
               <a href="generate_pdf.php">Générer un PDF</a> <!-- Lien pour générer le fichier PDF -->
+              <a href="generate_pdf.php">Générer un PDF</a> <!-- Lien pour générer le fichier PDF -->
+              <a href="generate_pdf.php">Générer un PDF</a> <!-- Lien pour générer le fichier PDF -->
+              <a href="generate_pdf.php">Générer un PDF</a> <!-- Lien pour générer le fichier PDF -->
             </div>
 
           </div>
